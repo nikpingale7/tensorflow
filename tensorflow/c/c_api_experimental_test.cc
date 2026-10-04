@@ -362,4 +362,4 @@ TEST_F(CApiExperimentalFunctionTest, GraphRemoveNonExistentFunction) {
 }
 
 }  // namespace
-}  // namespace tensorflow
+}  // namespace tensorflow new
